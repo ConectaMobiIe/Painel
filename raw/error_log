@@ -1,0 +1,141 @@
+[15-Jun-2023 13:41:11 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:41:11 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:41:11 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:41:12 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:41:12 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:41:12 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:41:12 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:41:12 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:41:12 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:41:40 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:41:40 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:41:40 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:41:41 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:41:41 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:41:41 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:42:28 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:42:28 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:42:28 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:42:29 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:42:29 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:42:29 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:42:29 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:42:29 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:42:29 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:43:29 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:44:43 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:44:43 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:44:43 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:44:45 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:44:45 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:44:45 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:44:45 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:44:45 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:44:45 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:45:50 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:45:50 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:45:50 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:45:51 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:45:51 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:45:51 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:45:51 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:45:51 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:45:51 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:46:42 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:46:42 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:46:42 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:46:43 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:46:43 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:46:43 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:46:43 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:46:43 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:46:43 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:47:57 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:47:57 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:47:57 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:47:58 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:47:58 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:47:58 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:47:58 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:47:58 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:47:58 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:48:20 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:48:20 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:48:20 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:48:21 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:48:21 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:48:21 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:48:21 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:48:21 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:48:21 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:48:39 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:48:39 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:48:39 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:48:39 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:48:39 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:48:39 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:50:13 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:51:41 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:51:41 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:51:41 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:51:42 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:51:42 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:51:42 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 13:51:43 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:51:43 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:51:43 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:51:56 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:51:56 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 13:51:56 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 13:51:56 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 13:51:56 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 13:51:56 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 14:26:04 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:26:04 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 14:26:04 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 14:26:05 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:26:05 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 14:26:05 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:26:05 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 14:26:05 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 14:26:06 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 14:27:08 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:27:08 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 14:27:08 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 14:27:08 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:27:08 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 14:27:08 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 14:39:27 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:39:27 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 14:39:27 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 14:39:28 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:39:28 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 14:39:28 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
+[15-Jun-2023 14:39:28 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:39:28 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 14:39:28 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 13
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  Undefined variable: config_payloads in /home/tecnopro/atualiza.tecnopro.shop/raw/config.php on line 70
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tecnopro/atualiza.tecnopro.shop/class/conexao.php on line 2
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  Undefined index: token in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 11
+[15-Jun-2023 14:40:01 America/Sao_Paulo] PHP Notice:  Undefined index: app_conta_link in /home/tecnopro/atualiza.tecnopro.shop/raw/tema.php on line 41
